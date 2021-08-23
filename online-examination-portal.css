@@ -1,0 +1,99 @@
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #005A8D;
+	border: none;
+	border-radius: 5px;
+    margin: 10px;
+}
+
+/* Login */
+
+.log-in{
+    text-align: center;
+    background-color: #FFDEDE;
+}
+.login-border {
+    width: 20%;
+    font-size: 28px;
+    padding: 10px 10px;
+    margin: 10px auto 5px auto;
+    border-style: solid;
+    border-color: salmon;
+    background-color: #F6A9A9;
+    border-radius: 3px;
+}
+.login-border img {
+    float: left;
+    margin: 0px 2px 0px 20px;
+
+}
+#login-heading {
+    text-align: center;
+    margin: 10% auto 5% auto;
+}
+
+/* Student login */
+
+.student-login-body{
+    background-color: #FFDEDE;
+    width: 25%;
+    margin: 10% 36%;
+    font-size: 120%;
+    text-align: center;
+  }
+.student-login-body .container{
+    background-color: #F6A9A9;
+    border: 1px solid #FFA0A0;
+	border-radius: 15px 15px;
+
+  }
+.student-login-body .input-group input{
+	height: 30px;
+	width: 80%;
+    margin: auto 5%;
+	padding: 1%;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+  }
+
+.student-login-body .input-group label {
+	display: block;
+	text-align: center;
+    font-size: 24px;
+	margin: 3px 10px;
+}
+
+/* Admin login */
+
+.admin-login {
+    background-color: #FFDEDE;
+    width: 25%;
+    margin: 10% 36%;
+    font-size: 120%;
+    text-align: center;
+  }
+  .admin-login .container{
+    background-color: #F6A9A9;
+    border: 1px solid #FFA0A0;
+	border-radius: 15px 15px;
+
+  }
+  .admin-login .input-group input{
+	height: 30px;
+	width: 80%;
+    margin: auto 5%;
+	padding: 1%;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+  }
+
+  .admin-login .input-group label {
+	display: block;
+	text-align: center;
+    font-size: 24px;
+	margin: 3px 10px;
+}
